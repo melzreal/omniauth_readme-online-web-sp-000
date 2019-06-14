@@ -26,9 +26,7 @@ gem 'turbolinks'
 # bundle exec rake doc:rails generates the API under doc/api.
 # gem 'sdoc', '~> 0.4.0', group: :doc
 
-gem 'omniauth'
 
-gem 'omniauth-facebook'
 
 gem 'pry'
 # Use ActiveModel has_secure_password
